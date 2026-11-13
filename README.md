@@ -1,5 +1,5 @@
 Author: Daniela Nicole E. Ruin
-
+block:E
 A personal student portfolio built with Laravel 13, Blade, custom CSS/JavaScript and Typed.js.
 It is themed as an adventure across the Grand Line: a wooden ship helm that turns with the typing
 animation, animated ocean, a wanted-poster profile, ability cards, an island-style interests gallery,
